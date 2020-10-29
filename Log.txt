@@ -1,2 +1,6 @@
 Transaccion exitosa  Thu Oct 29 01:23:17 COT 2020
 Su retiro se ha realizado correctamente  Thu Oct 29 01:23:17 COT 2020
+Transaccion exitosa Thu Oct 29 10:01:23 COT 2020
+Transaccion exitosa Thu Oct 29 10:03:16 COT 2020
+Transaccion exitosa Thu Oct 29 10:03:16 COT 2020
+Transaccion exitosa Thu Oct 29 10:04:58 COT 2020
